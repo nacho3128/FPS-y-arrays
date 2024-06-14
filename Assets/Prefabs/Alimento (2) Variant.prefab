@@ -72,6 +72,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alimento (2) Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3369591641448509054, guid: 0b580fb7431cd0c4a881b416bf53a662,
+        type: 3}
+      propertyPath: m_TagString
+      value: Alimento
+      objectReference: {fileID: 0}
     - target: {fileID: 5369353389624108859, guid: 0b580fb7431cd0c4a881b416bf53a662,
         type: 3}
       propertyPath: m_Size.y
